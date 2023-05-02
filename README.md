@@ -1,9 +1,9 @@
-<h1 align="center">FBLT GITHUB Legião Foxs Blinters</h1>
+<h1 align="center">GITHUB OFICIAL DA FOXS BLINTERS</h1>
 <h3 align="center">Foxs Blinters é uma legião de hackers brasileiras que se dedica ao desenvolvimento de ferramentas de segurança cibernética, testes de penetração e outras tarefas relacionadas à segurança. Eles são conhecidos por seus ataques a sistemas que hospedam conteúdo relacionado a pedofilia, zoofilia ou outras formas de exploração infantil, bem como por vazar informações de empresas corruptas. A Foxs Blinters tem como objetivo ajudar a combater a exploração infantil e combater a corrupção. os mesmos também oferecem serviços de consultoria em segurança cibernética, testes de penetração e outras tarefas relacionadas à segurança.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@foxsblinters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@foxsblinters" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@foxsblinters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@foxsblinters" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
